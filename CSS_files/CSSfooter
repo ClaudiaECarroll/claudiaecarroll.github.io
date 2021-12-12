@@ -1,0 +1,5 @@
+.CSSfooter { font-family: didot;
+      color: black;
+      font-size: 20px;
+      text-align: center;
+      margin-top: 10px}
